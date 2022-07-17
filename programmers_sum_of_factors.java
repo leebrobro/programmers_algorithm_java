@@ -1,4 +1,4 @@
-class programmersjavatest {
+class programmers_sum_of_factors {
     public static void main(String[] args) {
 
         int n = 0;
